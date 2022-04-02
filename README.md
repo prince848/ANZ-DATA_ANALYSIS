@@ -1,6 +1,6 @@
 ---
 Version: 1.0
-Author: Pince Bhalawat
+Author: Prince Bhalawat
 Title: ANZ Virtual Internship Project: Data@ANZ
 Link: https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/Data%40ANZ%20Program
 ---
@@ -35,6 +35,7 @@ This program is about learning predictive analytics of banking data provided by 
 - Update: Built for supervised and unsupervised models 
 
 **Results**
+
 The Visualization of overall analysis is presented in Tableau Public
 [**ANZ-DATA_ANALYSIS_VISUALIZATION**](https://public.tableau.com/app/profile/prince1103/viz/ANZExploaoryDataAnalysis/Dashboard1#1)
 
